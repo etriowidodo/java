@@ -5,7 +5,7 @@ java EightBall 2000 lkjkhkasdfadfa
 asdfadsfaasdfadfa hkhkhkjk jkgkjgj
 afafasfdasdfa
 Normally, this program replies with a message from the files 0, 1, or 2.  However,
-due to bad error handling, if you specify a filename instead of an integer as
+due to bad error handling, if you specify a fiasdfsasslename instead of an integer as
 the argument, it shows the contents of the file.  (For simplicity, the
 user input comes from the command-line argument.  What would happen if it
 came from a web form?)  Try:
