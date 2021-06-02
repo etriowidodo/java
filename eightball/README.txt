@@ -8,7 +8,7 @@ Normally, this program replies with a message from the files 0, 1, or 2.  Howeve
 due to bad error handling, if you specify a fiasdfsasslename instead of an integer as
 the argument, it shows the contents of the file.  (For simplicity, the
 user input comes from the command-line argument.  What would happen if it
-came from a web form?)  Try:
+came from a web form?)  Try:asdfadfa
 
 java EightBall /etc/passwd         (on Unix)
 java EightBall C:\autoexec.bat     (on Windows)
