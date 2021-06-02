@@ -1,6 +1,6 @@
 Compile EightBall.java and run it.  It takes an integer as an argument:
 jjjasdfadsfa
-java EightBall 391
+java EightBall 391 asdfasfa
 java EightBall 2000 lkjkhkasdfadfa
 asdfadsfaasdfadfa hkhkhkjk jkgkjgj
 afafasfdasdfa
