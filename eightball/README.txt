@@ -2,7 +2,7 @@ Compile EightBall.java and run it.  It takes an integer as an argument:
 jjjasdfadsfa
 java EightBall 391
 java EightBall 2000 lkjkhkasdfadfa
-asdfadsfaasdfadfa hkhkhkjk
+asdfadsfaasdfadfa hkhkhkjk jkgkjgj
 afafasfdasdfa
 Normally, this program replies with a message from the files 0, 1, or 2.  However,
 due to bad error handling, if you specify a filename instead of an integer as
